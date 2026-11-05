@@ -1,0 +1,17 @@
+{
+  "accuracy_pct": 60.0,
+  "macro_f1_pct": 54.37,
+  "weighted_f1_pct": 58.28,
+  "macro_precision_pct": 55.97,
+  "macro_recall_pct": 58.71,
+  "roc_auc_macro": 0.8841,
+  "roc_auc_micro": 0.9152,
+  "num_classes": 18,
+  "test_samples": 70,
+  "train_samples": 278,
+  "total_images": 348,
+  "total_products": 250,
+  "mean_product_extraction_accuracy_pct": 100.0,
+  "mean_product_processing_accuracy_pct": 100.0,
+  "training_time_seconds": 179.22
+}
